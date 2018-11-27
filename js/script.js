@@ -53,5 +53,6 @@ var randomNumber = Math.random();
     if (userChoice === 'rock' && cc ==='paper'){
         $('#result').text('Computer Wins')
     }
+
 });
 
