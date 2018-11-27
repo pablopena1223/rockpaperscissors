@@ -11,3 +11,15 @@
 img {
   height: 300px;
 }
+
+body{
+  background-color: red;
+}
+
+h4{
+  font-size: larger;
+}
+
+p{
+  font-size: large;
+}
